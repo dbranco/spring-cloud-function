@@ -1,0 +1,11 @@
+
+spring:
+  cloud:
+    function:
+      definition: greet
+  main:
+    banner-mode: off
+
+logging:
+  level:
+    root: info
